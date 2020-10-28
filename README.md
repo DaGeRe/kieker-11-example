@@ -7,6 +7,7 @@ To try running with final values, run `./run.sh` and then in the container
 ```Bash 
 cd ../aspectj-maven
 mvn clean package
+cd target
 java -cp classes/ -javaagent:../kieker-1.14-SNAPSHOT-aspectj.jar de.kiekertest2.Main
 ```
 
