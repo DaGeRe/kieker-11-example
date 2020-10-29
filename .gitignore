@@ -3,4 +3,6 @@ aspectj-maven/.project
 aspectj-maven/.settings/
 aspectj-maven/dependency-reduced-pom.xml
 aspectj-maven/target/
-
+probe-aspectj/.classpath
+probe-aspectj/.settings/
+probe-aspectj/.gradle/
